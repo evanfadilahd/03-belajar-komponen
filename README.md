@@ -41,3 +41,10 @@
     4. Also, the we need to include word "ilmuwan!" in to the syntax <b>!
 
 
+### Jawaban Soal 4
+"The code above still contains errors, please correct them."
+
+![Screenshot](assets-report/04.1.png)
+
+    I fix the problem in line 12, I changed it into {person.name}
+
