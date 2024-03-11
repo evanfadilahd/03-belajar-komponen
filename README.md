@@ -53,11 +53,35 @@
 "Open the src/components/todolist.tsx file and extract the image URL into the person object."
 "Capture the results and create a report in README.md. Is there a difference in the appearance of the web today?"
 
+-Before-
 ![Screenshot](assets-report/05.1.png)
 ![Screenshot](assets-report/05.2.png)
+
+-After-
 ![Screenshot](assets-report/05.3.png)
 ![Screenshot](assets-report/05.4.png)
 
     As seen in the picture above, there is no difference in the website.
+
+
+### Jawaban Soal 6
+"Correct the code in the src attribute section. You can adjust other codes from the answers to the previous questions. Capture the results and create a report in README.md. Explain what you have learned and how does it look now?"
+
+-Before-
+![Screenshot](assets-report/06.1.png)
+![Screenshot](assets-report/06.2.png)
+
+-After-
+![Screenshot](assets-report/06.3.png)
+![Screenshot](assets-report/06.4.png)
+
+    What I learn is we can change the URL expression. We can implement set base URL and maybe user can just input the additional/detailed url.
+    It looks the same as before (same as the previous question).
+
+"To check if your fix works, try changing the value of imageSize to 'b'. Images should adjust to size after conversion."
+
+![Screenshot](assets-report/06.5.png)
+![Screenshot](assets-report/06.6.png)
+
 
 
