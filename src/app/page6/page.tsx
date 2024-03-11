@@ -1,5 +1,4 @@
-import MyGallery from "@/components/mygallery";
-import MyProfile from "@/components/myprofile";
+import MyGallery, { MyProfile } from "@/components/mygallery";
 
 export default function Tes() {
     return (
