@@ -48,3 +48,16 @@
 
     I fix the problem in line 12, I changed it into {person.name}
 
+
+### Jawaban Soal 5
+"Open the src/components/todolist.tsx file and extract the image URL into the person object."
+"Capture the results and create a report in README.md. Is there a difference in the appearance of the web today?"
+
+![Screenshot](assets-report/05.1.png)
+![Screenshot](assets-report/05.2.png)
+![Screenshot](assets-report/05.3.png)
+![Screenshot](assets-report/05.4.png)
+
+    As seen in the picture above, there is no difference in the website.
+
+
