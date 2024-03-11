@@ -84,4 +84,16 @@
 ![Screenshot](assets-report/06.6.png)
 
 
+### Jawaban Soal 7
+"This MyGallery component contains two identical markups. Extract it into a MyProfile component to reduce duplication. You need to choose what props will be sent."
+
+![Screenshot](assets-report/07.1.png)
+![Screenshot](assets-report/07.2.png)
+
+"Explain what you have learned and how does it look now?"
+
+![Screenshot](assets-report/07.3.png)
+
+    I learned that we can separate markup so that we easy to differentiate between the two. We can make it into different components!
+
 
