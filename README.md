@@ -121,5 +121,13 @@
 ### Jawaban Soal 9
 "If the code above contains an error, please correct it."
 
-"Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?"
+![Screenshot](assets-report/09.1.png)
+![Screenshot](assets-report/09.2.png)
+
+"Capture the results and create a report in README.md. Explain what you have learned and how does it look now?"
+
+![Screenshot](assets-report/09.3.png)
+
+    I learn that we can simplify the code structure into children and parents.
+    Also we can pass the props into the components.
 
