@@ -17,6 +17,7 @@
     What I learn from this task is that we can make an components and use it again easily.
     Also, to reference image from external source (internet) I need a next.config.js configuration to process the image.
 
+<br />
 
 ### Jawaban Soal 2
 
@@ -26,6 +27,7 @@
     What I learn from this task is that I can use components that can use other components many times.
     About the interface, it is slightly changed because the picture doesn't have <div> like before.
 
+<br />
 
 ### Jawaban Soal 3
 
@@ -40,6 +42,7 @@
     3. We need to change <br> into <br />
     4. Also, the we need to include word "ilmuwan!" in to the syntax <b>!
 
+<br />
 
 ### Jawaban Soal 4
 "The code above still contains errors, please correct them."
@@ -48,6 +51,7 @@
 
     I fix the problem in line 12, I changed it into {person.name}
 
+<br />
 
 ### Jawaban Soal 5
 "Open the src/components/todolist.tsx file and extract the image URL into the person object."
@@ -63,6 +67,7 @@
 
     As seen in the picture above, there is no difference in the website.
 
+<br />
 
 ### Jawaban Soal 6
 "Correct the code in the src attribute section. You can adjust other codes from the answers to the previous questions. Capture the results and create a report in README.md. Explain what you have learned and how does it look now?"
@@ -83,6 +88,7 @@
 ![Screenshot](assets-report/06.5.png)
 ![Screenshot](assets-report/06.6.png)
 
+<br />
 
 ### Jawaban Soal 7
 "This MyGallery component contains two identical markups. Extract it into a MyProfile component to reduce duplication. You need to choose what props will be sent."
@@ -96,4 +102,24 @@
 
     I learned that we can separate markup so that we easy to differentiate between the two. We can make it into different components!
 
+<br />
+
+### Jawaban Soal 8
+"If the code above contains an error, please correct it."
+
+![Screenshot](assets-report/08.1.png)
+
+"Capture the results and create a report in README.md. Explain what you have learned and how does it look now?"
+
+![Screenshot](assets-report/08.2.png)
+
+    It can show the image in imgur.com with the width and height 40.
+    I learn about to fix the problem we can use inspect in the website to find the problem faster.
+
+<br />
+
+### Jawaban Soal 9
+"If the code above contains an error, please correct it."
+
+"Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?"
 
